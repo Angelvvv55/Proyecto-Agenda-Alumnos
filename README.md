@@ -1,4 +1,4 @@
-# Proyecto-Progra-Estructurada
+# Proyecto-Agenda-Alumnos
 
 Proyecto de sistema de agenda de alumnos simple en C, hecho para la clase de Programación Estructurada.
 ![image](https://github.com/user-attachments/assets/c98e447a-69a5-4956-813d-9ccb0149dc8c)
